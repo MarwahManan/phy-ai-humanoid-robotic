@@ -1,0 +1,22 @@
+{
+  "model": "gemini-pro",
+  "temperature": 0.7,
+  "max_tokens": 2048,
+  "top_p": 0.9,
+  "top_k": 40,
+  "stop_sequences": [],
+  "candidate_count": 1,
+
+
+
+  
+    "mcpServers": {
+        "github": {
+            "httpUrl": "https://api.githubcopilot.com/mcp/",
+            "headers": {
+                "Authorization": "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"
+            }
+        }
+    }
+}
+

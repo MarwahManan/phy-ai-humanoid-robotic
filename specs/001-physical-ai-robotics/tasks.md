@@ -1,0 +1,132 @@
+# Physical AI & Humanoid Robotics - Task Checklist
+
+## Phase 1: Docusaurus Setup Tasks
+- [X] T001: Initialize Docusaurus project with `npx create-docusaurus@latest website classic`
+- [X] T002: Configure package.json with project metadata and dependencies
+- [X] T003: Set up docusaurus.config.js with site title and URL
+- [X] T004: Configure sidebar.js with navigation structure
+- [X] T005: Create custom CSS file for styling
+- [X] T006: Install required dependencies (prism, react components)
+- [X] T007: Test initial build with `npm run build`
+- [X] T008: Test development server with `npm start`
+
+## Phase 2: Foundation Tasks
+- [X] T009: Create docs/physical-ai-humanoid-robotics directory structure
+- [X] T010: Create chapter-1 directory
+- [X] T011: Create chapter-2 directory
+- [X] T012: Create chapter-3 directory
+- [X] T013: Create chapter-4 directory
+- [X] T014: Create lesson subdirectories for each chapter
+- [X] T015: Set up static/img directory for diagrams
+- [X] T016: Create src/components directory for custom components
+
+## Phase 3: Chapter 1 Development Tasks
+- [X] T017: Create lesson-1-1-foundations-of-physical-ai.md
+- [X] T018: Add front-matter to lesson-1-1 with title, sidebar_label, sidebar_position
+- [X] T019: Write introduction section for lesson-1-1
+- [X] T020: Write core concepts section for lesson-1-1
+- [X] T021: Add code implementation section for lesson-1-1
+- [X] T022: Create hands-on exercise for lesson-1-1
+- [X] T023: Write summary section for lesson-1-1
+- [X] T024: Create lesson-1-2-anatomy-of-humanoid-robots.md
+- [X] T025: Add front-matter to lesson-1-2 with title, sidebar_label, sidebar_position
+- [X] T026: Write introduction section for lesson-1-2
+- [X] T027: Write core concepts section for lesson-1-2
+- [X] T028: Add code implementation section for lesson-1-2
+- [X] T029: Create hands-on exercise for lesson-1-2
+- [X] T030: Write summary section for lesson-1-2
+- [X] T031: Create lesson-1-3-simulation-environments.md
+- [X] T032: Add front-matter to lesson-1-3 with title, sidebar_label, sidebar_position
+- [X] T033: Write introduction section for lesson-1-3
+- [X] T034: Write core concepts section for lesson-1-3
+- [X] T035: Add code implementation section for lesson-1-3
+- [X] T036: Create hands-on exercise for lesson-1-3
+- [X] T037: Write summary section for lesson-1-3
+- [X] T038: Add diagrams to lesson-1-1
+- [X] T039: Add diagrams to lesson-1-2
+- [X] T040: Add diagrams to lesson-1-3
+
+## Phase 4: Chapter 2 Development Tasks
+- [X] T041: Create lesson-2-1-perception-systems.md
+- [X] T042: Add front-matter to lesson-2-1 with title, sidebar_label, sidebar_position
+- [X] T043: Write introduction section for lesson-2-1
+- [X] T044: Write core concepts section for lesson-2-1
+- [X] T045: Add code implementation section for lesson-2-1
+- [X] T046: Create hands-on exercise for lesson-2-1
+- [X] T047: Write summary section for lesson-2-1
+- [X] T048: Create lesson-2-2-motion-planning.md
+- [X] T049: Add front-matter to lesson-2-2 with title, sidebar_label, sidebar_position
+- [X] T050: Write introduction section for lesson-2-2
+- [X] T051: Write core concepts section for lesson-2-2
+- [X] T052: Add code implementation section for lesson-2-2
+- [X] T053: Create hands-on exercise for lesson-2-2
+- [X] T054: Write summary section for lesson-2-2
+- [X] T104: Add diagrams to lesson-2-2
+- [X] T055: Create lesson-2-3-control-systems.md
+- [X] T056: Add front-matter to lesson-2-3 with title, sidebar_label, sidebar_position
+- [X] T057: Write introduction section for lesson-2-3
+- [X] T058: Write core concepts section for lesson-2-3
+- [X] T059: Add code implementation section for lesson-2-3
+- [X] T060: Create hands-on exercise for lesson-2-3
+- [X] T061: Write summary section for lesson-2-3
+- [X] T106: Add diagrams to lesson-2-3
+
+## Phase 5: Chapter 3 & 4 Development Tasks
+- [X] T062: Create lesson-3-1-learning-algorithms.md
+- [X] T063: Add front-matter to lesson-3-1 with title, sidebar_label, sidebar_position
+- [X] T064: Write introduction section for lesson-3-1
+- [X] T065: Write core concepts section for lesson-3-1
+- [X] T066: Add code implementation section for lesson-3-1
+- [X] T067: Create hands-on exercise for lesson-3-1
+- [X] T068: Write summary section for lesson-3-1
+- [X] T107: Add diagrams to lesson-3-1
+- [X] T069: Create lesson-3-2-human-robot-interaction.md
+- [X] T070: Add front-matter to lesson-3-2 with title, sidebar_label, sidebar_position
+- [X] T071: Write introduction section for lesson-3-2
+- [X] T072: Write core concepts section for lesson-3-2
+- [X] T073: Add code implementation section for lesson-3-2
+- [X] T074: Create hands-on exercise for lesson-3-2
+- [X] T075: Write summary section for lesson-3-2
+- [X] T108: Add diagrams to lesson-3-2
+- [X] T076: Create lesson-3-3-ethics-safety.md
+- [X] T077: Add front-matter to lesson-3-3 with title, sidebar_label, sidebar_position
+- [X] T078: Write introduction section for lesson-3-3
+- [X] T079: Write core concepts section for lesson-3-3
+- [X] T080: Add code implementation section for lesson-3-3
+- [X] T081: Create hands-on exercise for lesson-3-3
+- [X] T082: Write summary section for lesson-3-3
+- [X] T109: Add diagrams to lesson-3-3
+- [X] T083: Create lesson-4-1-advanced-topics.md
+- [X] T084: Add front-matter to lesson-4-1 with title, sidebar_label, sidebar_position
+- [X] T085: Write introduction section for lesson-4-1
+- [X] T086: Write core concepts section for lesson-4-1
+- [X] T087: Add code implementation section for lesson-4-1
+- [X] T088: Create hands-on exercise for lesson-4-1
+- [X] T089: Write summary section for lesson-4-1
+- [X] T110: Add diagrams to lesson-4-1
+- [X] T090: Create lesson-4-2-project-integration.md
+- [X] T091: Add front-matter to lesson-4-2 with title, sidebar_label, sidebar_position
+- [X] T092: Write introduction section for lesson-4-2
+- [X] T093: Write core concepts section for lesson-4-2
+- [X] T094: Add code implementation section for lesson-4-2
+- [X] T095: Create hands-on exercise for lesson-4-2
+- [X] T096: Write summary section for lesson-4-2
+- [X] T111: Add diagrams to lesson-4-2
+- [X] T097: Create lesson-4-3-future-directions.md
+- [X] T098: Add front-matter to lesson-4-3 with title, sidebar_label, sidebar_position
+- [X] T099: Write introduction section for lesson-4-3
+- [X] T100: Write core concepts section for lesson-4-3
+- [X] T101: Add code implementation section for lesson-4-3
+- [X] T102: Create hands-on exercise for lesson-4-3
+- [X] T103: Write summary section for lesson-4-3
+- [X] T112: Add diagrams to lesson-4-3
+
+## Phase 6: Cross-cutting Concerns & Polish Tasks
+- [X] T105: Add diagrams to lesson-2-1
+- [X] T113: Create educator resources document
+- [X] T114: Create maintainer guide
+- [X] T115: Write comprehensive README
+- [X] T116: Final review and editing of all lessons
+- [X] T117: Test all code examples in browser
+- [X] T118: Verify all links and cross-references
+- [X] T119: Final build and deploy test
